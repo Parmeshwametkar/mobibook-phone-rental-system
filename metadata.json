@@ -1,0 +1,6 @@
+{
+  "name": "Phone Booking System",
+  "description": "A full-stack Phone Booking System featuring a React.js frontend, an Express simulation server for immediate live preview, and complete exportable Spring Boot backend Java code with a MySQL schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
